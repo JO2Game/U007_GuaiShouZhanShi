@@ -1,0 +1,109 @@
+KEY,English,Chinese,ChineseTraditional,Japanese,Korean,Thai,Vietnamese,Indonesian
+Play,play,开始游戏,開始遊戲,,,,,
+Store,"Berry Store",怪兽商店,,,,,,
+Author,"Created by Yurov Viktor (yurowm)
+Don't forget to leave your review for this great asset!","吉羽出品  必属精品
+上海吉羽网络科技有限公司",,,,,,
+Documentation,"Vesrion 2.0
+***
+For understanding how to work with level editor read manual
+<color=#99FFBB>Yurowm/ReadMe.pdf</color>
+***
+In App Purchases powerd by Soomla Store plugin.
+Soomla Store documentation:
+<color=#99FFBB>http://know.soom.la/unity/store/store_gettingstarted/</color>
+And move ""Assets/Yurowm/Plugins"" folder in ""Assets"" folder -  this neccesery for correct working of Berry Store
+***
+For additional question write me:
+<color=#99FFBB>E-mail: yurowm+u3d@gmail.com
+Skype: yurov_viktor</color>
+***
+<color=#99BBFF>Thank you for purchase! And don't forget to
+leave your feedback in Unity Asset Store.</color>
+","太阳当空照
+花儿对我笑
+小鸟说早早早
+你为什么背上炸药包
+我去炸学校
+谁也不知道
+一拉线我就跑
+轰的一声学校不见了
+",,,,,,
+ChooseLevel,"Choose Level",选择关卡,,,,,,
+Back,Back,返回,,,,,,
+Moves,moves,步数,,,,,,
+Left,left,剩余,,,,,,
+JelliesLeft,"jellies left",剩余冰块,,,,,,
+TargetScore,"target score",过关分数,,,,,,
+Pause,Pause,暂停,,,,,,
+LevelComplete,"Level complete!",恭喜过关,,,,,,
+Score,Score,分数,,,,,,
+Quit,Quit,退出,,,,,,
+Next,Next,下一关,,,,,,
+LevelFailed,"Level failed!",过关失败,,,,,,
+Restart,Restart,再试,,,,,,
+Resume,Resume,继续,,,,,,
+NoMoreMoves!,"No more moves!",步数不足！,,,,,,
+Retreat,Retreat,取消,,,,,,
+Cancel,Cancel,取消,,,,,,
+Cut,Cut,移除,,,,,,
+FreeBombs,"Free
+Bombs",核弹,,,,,,
+FreeSwitch,"Free
+Switch",换位符,,,,,,
+Shake,Shake,刷新令,,,,,,
+MagicFinger,Magic\nFinger,金手指,,,,,,
+TapOneRemove,MovesTitle,移除任意一个怪兽！,,,,,,
+SwitchTwoFree,"Switch two berry for free!",交换两个相邻的怪兽！,,,,,,
+TapToBomb,"Tap on berry to convert it to bomb!",将任一怪兽变为炸弹！,,,,,,
+NoMoreTime,"No more time!",时间不足！,,,,,,
+ClearData,"Clear player data",清除玩家数据,,,,,,
+Clear,Clear,清除,,,,,,
+Add,Add,增加,,,,,,
+AddSeeds,"Add some seeds",来点金币,,,,,,
+Buy,Buy,购买,,,,,,
+LittleGoldsPack,"Little golds pack",一包金币,,,,,,
+LittleGoldsDesc,"Only 10 seeds",增加100金币,,,,,,
+AmateurGoldsPack,"Seeds for amateur",一袋金币,,,,,,
+AmateurGoldsDesc,"35 seeds",增加240金币,,,,,,
+ProfessionalGoldsPack,"Seeds for professional",一箱金币,,,,,,
+ProfessionalGoldsDesc,"200 seeds!",增加650金币！,,,,,,
+MegaSeedPack,"Mega seed pack",一车金币,,,,,,
+MegaSeedDesc,"1000 seeds",增加1500金币,,,,,,
+TenExtraMoves,"Ten extra moves",动力鞋,,,,,,
+TenExtraMovesDesc,"Extra moves ten pack",增加5步,,,,,,
+TenExtraTime,"Ten extra time",沙漏,,,,,,
+TenExtraTimeDesc,"10 extra times pack!",增加15秒,,,,,,
+TenCutBoosters,"Ten cut boosters",猎枪,,,,,,
+TenCutBoostersDesc,"Remove any berry for one touch",移除任意一个怪兽！,,,,,,
+TenBombsBoosters,"Ten free bombs boosters",核弹,,,,,,
+TenBombsBoostersDesc,"Add 6 bombs on field",随机6个怪兽变成炸弹,,,,,,
+TenSwitchBoosters,"Ten switch boosters",换位符,,,,,,
+TenSwitchBoostersDesc,"Switch two berries for free",交换两相邻怪兽的位置,,,,,,
+TenShakeBoosters,"Ten shake boosters",刷新令,,,,,,
+TenShakeBoostersDesc,"Mix all berries on field",刷新场景内怪兽分布,,,,,,
+TenMagicFingerBoosters,"Ten magic finger boosters",金手指,,,,,,
+TenMagicFingerBoostersDesc,"Convert berry to simple bomb",将任一怪兽变为炸弹,,,,,,
+ExtraMoves,"Extra moves",额外步数,,,,,,
+ExtraMovesDesc,"+5 Extra moves booster",使用一个动力鞋可额外增加5步,,,,,,
+ExtraTime,"Extra time",额外时间,,,,,,
+ExtraTimeDesc,"+10 Extra time booster",使用一个沙漏可额外增加15秒,,,,,,
+CutBooster,"Cut booster",猎枪,,,,,,
+CutBoosterDesc,"Remove any berry for one touch",移除任意一个怪兽！,,,,,,
+ShakeBooster,"Shake booster",刷新令,,,,,,
+ShakeBoosterDesc,"Mix all berries on field",刷新场景内怪兽分布,,,,,,
+SwitchBoosterDesc,"Switch two barries for free",交换两相邻怪兽的位置,,,,,,
+FreeBombs,"Free bombs",核弹,,,,,,
+FreeBombsDesc,"Add six bombs on field",随机6个怪兽变成炸弹,,,,,,
+MagicFinger,"Magic finger",金手指,,,,,,
+MagicFingerDesc,"Convert berry to simple bomb",将任一怪兽变为炸弹,,,,,,
+NoAds,"No ads",去除广告,,,,,,
+NoAdsDesc,"Remove ads forever!",永久移除广告,,,,,,
+SwitchBooster,"Switch booster",换位符,,,,,,
+Use,Use,使用,,,,,,
+ExpansionMove,"+5 extra moves
+right now!",花费20金币购买一个动力鞋可额外增加5步,,,,,,
+BuyForFive,"Buy for 5",购买,,,,,,
+ExpansionTime,"+15 extra seconds
+right now!",花费20金币购买一个沙漏可额外增加15秒,,,,,,
+Charge,Charge,充值,,,,,,
